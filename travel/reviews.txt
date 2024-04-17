@@ -1,9 +1,15 @@
 Reviews Page
 
-- Tokyo:
-	-- Pros: Rich culture.
-  -- Cons: Very crowded.
+- First Country: Japan
+- Cities Visited: Tokyo
+- Tokyo Pros:
+  -- Rich Culture.
+- Tokyo Cons:
+  -- Very crowded
 
-- Kuala Lumpur:
-  -- Pros: Great food variety.
-  -- Cons: Too many insects.
+- Second Country: Malaysia
+- Cities Visited: Kuala Lumpur
+- Kuala Lumpur Pros:
+  -- Great food variety.
+- Kuala Lumpur Cons:
+  -- Too many insects.
